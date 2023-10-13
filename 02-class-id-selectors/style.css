@@ -1,0 +1,26 @@
+.first.one {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.second.one {
+    color: blue;
+    font-size: 36px;
+}
+
+.third.one {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px
+}
+
+.fourth.one {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.fifth.one {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
